@@ -1,0 +1,175 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="SelectIn">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="QuickJavaDoc">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="Refactorings.QuickListPopupAction">
+        <abbreviation name="hoffi" />
+        <abbreviation name="good" />
+      </action>
+      <action id="RecentLocations">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="HippieBackwardCompletion">
+        <abbreviation name="hoffi" />
+        <abbreviation name="good" />
+      </action>
+      <action id="EditorNextWordInDifferentHumpsMode">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorDeleteLine">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="GotoPreviousBookmark">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="GotoDeclaration">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorUnSelectWord">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="GotoSymbol">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="GotoSuperMethod">
+        <abbreviation name="good" />
+      </action>
+      <action id="JumpToLastWindow">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="AceWordForwardAction">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="AceAction">
+        <abbreviation name="good" />
+      </action>
+      <action id="EditorSelectLine">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="GotoTypeDeclaration">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="ParameterInfo">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorResetFontSize">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorStartNewLine">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="ShowBookmarks">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="AceTargetAction">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="InsertLiveTemplate">
+        <abbreviation name="good" />
+      </action>
+      <action id="JumpToLastChange">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="Gradle.ExecuteTask">
+        <abbreviation name="hoffi" />
+        <abbreviation name="good" />
+      </action>
+      <action id="ToggleBookmark">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="ShowReformatFileDialog">
+        <abbreviation name="good" />
+      </action>
+      <action id="CallHierarchy">
+        <abbreviation name="hoffi" />
+        <abbreviation name="good" />
+      </action>
+      <action id="SurroundWith">
+        <abbreviation name="good" />
+      </action>
+      <action id="EditorDuplicateLines">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorSelectWord">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="Compile">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="GotoPreviousError">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="SelectInProjectView">
+        <abbreviation name="hoffi" />
+        <abbreviation name="good" />
+      </action>
+      <action id="RecentFiles">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorDecreaseFontSize">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="ExpressionTypeInfo">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorPreviousWordInDifferentHumpsMode">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="FileStructurePopup">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="HideActiveWindow">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorIncreaseFontSize">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="ActivateVersionControlToolWindow">
+        <abbreviation name="hoffi" />
+        <abbreviation name="good" />
+      </action>
+      <action id="CompileDirty">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="Debug">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="GotoImplementation">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="FindWordAtCaret">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorCompleteStatement">
+        <abbreviation name="good" />
+      </action>
+      <action id="ActivateProblemsViewToolWindow">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="ReformatCode">
+        <abbreviation name="good" />
+      </action>
+      <action id="GotoNextError">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="TypeHierarchy">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorMatchBrace">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="HippieCompletion">
+        <abbreviation name="hoffi" />
+        <abbreviation name="good" />
+      </action>
+      <action id="GotoNextBookmark">
+        <abbreviation name="hoffi" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

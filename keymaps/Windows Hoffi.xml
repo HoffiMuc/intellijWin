@@ -1,0 +1,159 @@
+<keymap version="1" name="Windows Hoffi" parent="$default">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl p" />
+  </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="shift j" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="j" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl j" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f9" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift alt d" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="ExternalSystem.ProjectRefreshAction" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl f" />
+  </action>
+  <action id="ForceOthersToFollowAction" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="n" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl n" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="shift n" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <mouse-shortcut keystroke="shift control button1" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="b" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl b" />
+  </action>
+  <action id="Gradle.ExecuteTask">
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="g" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl g" />
+  </action>
+  <action id="GuiDesigner.QuickJavadoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl w" />
+  </action>
+  <action id="KotlinShellExecute" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="q" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl r" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="v" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl v" />
+  </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="back_slash" />
+  </action>
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f11" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="alt o" />
+  </action>
+  <action id="ShowFilterPopup" />
+  <action id="SmartSelect" />
+  <action id="SplitChooser.Duplicate" />
+  <action id="SurroundWithLiveTemplate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f11" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="o" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl o" />
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl h" second-keystroke="h" />
+  </action>
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UsageGrouping.DirectoryStructure" />
+  <action id="UsageGrouping.FileStructure" />
+  <action id="Vcs.Log.ShowTooltip">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="ViewSource" />
+  <action id="hg4idea.QFold" />
+  <action id="hg4idea.QPushAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
+</keymap>
