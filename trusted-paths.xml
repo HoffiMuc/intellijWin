@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="//wsl$/DebianLGDEV/root/gitRepos/minimal" />
+        <option value="//wsl$/DebianLGDEV/root/gitRepos/jira" />
       </list>
     </option>
   </component>
