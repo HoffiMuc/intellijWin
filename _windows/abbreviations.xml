@@ -11,6 +11,9 @@
         <abbreviation name="hoffi" />
         <abbreviation name="good" />
       </action>
+      <action id="MoveLineUp">
+        <abbreviation name="hoffi" />
+      </action>
       <action id="RecentLocations">
         <abbreviation name="hoffi" />
       </action>
@@ -18,19 +21,19 @@
         <abbreviation name="hoffi" />
         <abbreviation name="good" />
       </action>
-      <action id="EditorDeleteLine">
+      <action id="EditorNextWordInDifferentHumpsMode">
         <abbreviation name="hoffi" />
       </action>
-      <action id="EditorNextWordInDifferentHumpsMode">
+      <action id="EditorDeleteLine">
         <abbreviation name="hoffi" />
       </action>
       <action id="GotoPreviousBookmark">
         <abbreviation name="hoffi" />
       </action>
-      <action id="EditorUnSelectWord">
+      <action id="GotoDeclaration">
         <abbreviation name="hoffi" />
       </action>
-      <action id="GotoDeclaration">
+      <action id="EditorUnSelectWord">
         <abbreviation name="hoffi" />
       </action>
       <action id="GotoSymbol">
@@ -98,29 +101,29 @@
       <action id="EditorSelectWord">
         <abbreviation name="hoffi" />
       </action>
-      <action id="EvaluateExpression">
-        <abbreviation name="hoffi" />
-      </action>
       <action id="Compile">
         <abbreviation name="hoffi" />
       </action>
+      <action id="EvaluateExpression">
+        <abbreviation name="hoffi" />
+      </action>
       <action id="GotoPreviousError">
-        <abbreviation name="hoffi" />
-      </action>
-      <action id="EditorDecreaseFontSize">
-        <abbreviation name="hoffi" />
-      </action>
-      <action id="RecentFiles">
         <abbreviation name="hoffi" />
       </action>
       <action id="SelectInProjectView">
         <abbreviation name="hoffi" />
         <abbreviation name="good" />
       </action>
-      <action id="EditorPreviousWordInDifferentHumpsMode">
+      <action id="RecentFiles">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorDecreaseFontSize">
         <abbreviation name="hoffi" />
       </action>
       <action id="ExpressionTypeInfo">
+        <abbreviation name="hoffi" />
+      </action>
+      <action id="EditorPreviousWordInDifferentHumpsMode">
         <abbreviation name="hoffi" />
       </action>
       <action id="FileStructurePopup">
@@ -129,23 +132,26 @@
       <action id="HideActiveWindow">
         <abbreviation name="hoffi" />
       </action>
-      <action id="EditorIncreaseFontSize">
+      <action id="MoveLineDown">
         <abbreviation name="hoffi" />
       </action>
-      <action id="CompileDirty">
+      <action id="EditorIncreaseFontSize">
         <abbreviation name="hoffi" />
       </action>
       <action id="ActivateVersionControlToolWindow">
         <abbreviation name="hoffi" />
         <abbreviation name="good" />
       </action>
+      <action id="CompileDirty">
+        <abbreviation name="hoffi" />
+      </action>
       <action id="Debug">
         <abbreviation name="hoffi" />
       </action>
-      <action id="FindWordAtCaret">
+      <action id="GotoImplementation">
         <abbreviation name="hoffi" />
       </action>
-      <action id="GotoImplementation">
+      <action id="FindWordAtCaret">
         <abbreviation name="hoffi" />
       </action>
       <action id="EditorCompleteStatement">
