@@ -3,7 +3,7 @@
     <property name="created">2021-11-04T11:21:46</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-22T15:32:59</property>
+    <property name="modified">2022-03-30T12:56:58</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -96,7 +96,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0d25" />
@@ -393,7 +393,7 @@
         <option name="FOREGROUND" value="54b33e" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ed864a" />
@@ -521,22 +521,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="242417" />
+        <option name="BACKGROUND" value="2e2f34" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1b241c" />
+        <option name="BACKGROUND" value="2b3331" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="241b25" />
+        <option name="BACKGROUND" value="32342f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="172223" />
+        <option name="BACKGROUND" value="36312e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="362b2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="362729" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -626,7 +636,7 @@
         <option name="BACKGROUND" value="153811" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="LESS_VARIABLE">
       <value />
     </option>
